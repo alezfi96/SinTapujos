@@ -12,6 +12,7 @@
                 <b>
                     <h3>Quienes somos</h3>
                 </b>
+                
                 Informarte es cuidarte, es una app que pretende contribuir a la educacion sexual , con articulos
                 educativos sobre anatomia , metodos anticonseptivos, enfermedades de transmicion sexual, ademas
                 encontraras
