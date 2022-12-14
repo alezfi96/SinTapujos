@@ -77,6 +77,7 @@ header{
 nav{
     height: 5vh;
 }
+
 .info {
     background-color: bisque;
     height: 85vh;
@@ -90,6 +91,7 @@ nav{
     font-size: 18px;
     padding: 15px;
     width: 33%;
+    text-align: justify;
 
 
 }
@@ -98,11 +100,13 @@ nav{
     font-size: 18px;
     padding: 15px;
     width: 33%;
+    text-align: justify;
 }
 
 .art3 {
     font-size: 18px;
     padding: 15px;
+    text-align: justify;    
     width: 33%;
 }
 </style>
